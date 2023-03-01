@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.line{
+    background-color: green;
+    width: 1375px;
+    height: 7px;
+    margin-left:70px;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    background-image: url('../img/images.png');
+    background-size: 100%;
+    margin-left: 1000px;
+}
+
+.general{
+    display: flex;
+    margin-left: 10px;
+}
+
+.title{
+    margin-left: 10px;
+}
+
+.list{
+    margin-left: 50px;
+}
